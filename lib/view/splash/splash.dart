@@ -31,12 +31,13 @@ class SplashScreen extends StatelessWidget {
               child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              const Text('Weather App', style: splashTxtStyle),
+              const Text('Cloud Canvas', style: splashTxtStyle),
               sbHeight20,
               GetBuilder<LocationController>(
                   init: LocationController(),
                   builder: (_locCtrl) {
                     return ElevatedButton(
+                        clipBehavior: Clip.antiAlias,
                         style: ElevatedButton.styleFrom(primary: whiteColor),
                         onPressed: () async {
                           Position usrLocation =
