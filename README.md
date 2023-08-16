@@ -6,9 +6,9 @@ This Flutter weather application is designed to provide users with current weath
 
 ## Screenshots
 
-Splash Screen                   |  Input Screen
-:-------------------------------:|:-------------------------:
-![]<img src="cloud_canvas.png">  |  ![]<img src="cloud_canvas1.png">
+Splash Screen                    |  Input Screen                       |  Home Screen
+:-------------------------------:|:-----------------------------------:|:-----------------------------------:
+<img src="cloud_canvas.png">     |  <img src="cloud_canvas1.png">      |  <img src="cloud_canvas2.png">
 <!-- <img src="cloud_canvas.png">
 <img src="cloud_canvas1.png">
 <img src="cloud_canvas2.png"> -->
