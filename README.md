@@ -29,7 +29,7 @@ The app's architecture is enhanced by GetX, a state management library that simp
 
 ## Getting Started
 
-Follow these steps to get the app up and running:
+Follow these steps to get the app up and running (use Flutter stable release 3.10.5):
 
 1. Clone the repository: `git clone https://github.com/Rahim47/cloud_canvas.git`
 2. Navigate to the project directory: `cd cloud_canvas`
