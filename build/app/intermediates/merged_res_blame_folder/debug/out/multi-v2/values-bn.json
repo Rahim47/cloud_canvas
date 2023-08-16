@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\emret\\Development\\Github\\cloud_canvas\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bn\\values-bn.xml",
+            "outputFile": "C:\\Users\\emret\\Development\\Github\\CloudCanvas\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bn\\values-bn.xml",
             "map": [
                 {
                     "source": "C:\\Users\\emret\\.gradle\\caches\\transforms-2\\files-2.1\\0cdd8aceb5059ba1c457f63b9183d1a3\\jetified-play-services-basement-18.1.0\\res\\values-bn\\values.xml",

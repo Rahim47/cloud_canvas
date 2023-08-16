@@ -6,7 +6,12 @@ This Flutter weather application is designed to provide users with current weath
 
 ## Screenshots
 
-<img src="cloud_canvas.png">
+Splash Screen                   |  Input Screen
+:-------------------------------:|:-------------------------:
+![]<img src="cloud_canvas.png">  |  ![]<img src="cloud_canvas1.png">
+<!-- <img src="cloud_canvas.png">
+<img src="cloud_canvas1.png">
+<img src="cloud_canvas2.png"> -->
 
 
 ## Features
@@ -28,7 +33,7 @@ Follow these steps to get the app up and running:
 
 1. Clone the repository: `git clone https://github.com/Rahim47/cloud_canvas.git`
 2. Navigate to the project directory: `cd cloud_canvas`
-3. Recomanded for a clean Start: `flutter clean` or `fvm flutter clean` if you're using Flutter Version Manager.
+3. Recomanded for a clean start: `flutter clean` or `fvm flutter clean` if you're using Flutter Version Manager.
 4. Install dependencies: `flutter pub get` or `fvm flutter pub get` if you're using Flutter Version Manager.
 5. Run the app: `flutter run` or `fvm flutter run` if you're using Flutter Version Manager.
 
