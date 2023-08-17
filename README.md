@@ -39,7 +39,7 @@ Follow these steps to get the app up and running (use Flutter stable release 3.1
 
 ## API Integration
 
-The app integrates with a OpenWeatherAPI to fetch weather data. The API key should be placed in the `lib/model/core/api_key.dart` file (create it if it doesn't exist). You can obtain an API key by signing up on the OpenWeatherAPI service's website.
+The app integrates with a OpenWeatherAPI to fetch weather data. The API key should be placed in the `lib/model/core/api_key.dart` file (you should create it if it doesn't exist). You can obtain an API key by signing up on the OpenWeatherAPI service's website.
 
 ## State Management
 
